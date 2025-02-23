@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "WebView2Demo": {
+      "commandName": "Project"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DUVsxbCzoko=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aiba\\Desktop\\WebView2Demo\\WebView2Demo\\WebView2Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aiba\\.nuget\\packages\\microsoft.web.webview2\\1.0.3065.39\\microsoft.web.webview2.1.0.3065.39.nupkg.sha512"
+  ],
+  "logs": []
+}
