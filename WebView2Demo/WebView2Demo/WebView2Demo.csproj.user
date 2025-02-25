@@ -5,4 +5,7 @@
             <SubType>Form</SubType>
         </Compile>
     </ItemGroup>
+    <PropertyGroup>
+        <EnableXamlDesignerContext>true</EnableXamlDesignerContext>
+    </PropertyGroup>
 </Project>

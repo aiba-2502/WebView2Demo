@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aiba\\Desktop\\WebView2Demo\\",
+  "WorkspaceRootPath": "C:\\Users\\shinseiki\\Desktop\\WebView2Demo\\WebView2Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA7422AA-CE3E-4BB8-9D4B-80CDEC10B2BE}|WebView2Demo\\WebView2Demo.csproj|c:\\users\\aiba\\desktop\\webview2demo\\webview2demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA7422AA-CE3E-4BB8-9D4B-80CDEC10B2BE}|WebView2Demo\\WebView2Demo.csproj|c:\\users\\shinseiki\\desktop\\webview2demo\\webview2demo\\webview2demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DA7422AA-CE3E-4BB8-9D4B-80CDEC10B2BE}|WebView2Demo\\WebView2Demo.csproj|solutionrelative:webview2demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7422AA-CE3E-4BB8-9D4B-80CDEC10B2BE}|WebView2Demo\\WebView2Demo.csproj|C:\\Users\\shinseiki\\Desktop\\WebView2Demo\\WebView2Demo\\webview2demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA7422AA-CE3E-4BB8-9D4B-80CDEC10B2BE}|WebView2Demo\\WebView2Demo.csproj|solutionrelative:webview2demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA7422AA-CE3E-4BB8-9D4B-80CDEC10B2BE}|WebView2Demo\\WebView2Demo.csproj|c:\\users\\aiba\\desktop\\webview2demo\\webview2demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA7422AA-CE3E-4BB8-9D4B-80CDEC10B2BE}|WebView2Demo\\WebView2Demo.csproj|C:\\Users\\shinseiki\\Desktop\\WebView2Demo\\WebView2Demo\\webview2demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA7422AA-CE3E-4BB8-9D4B-80CDEC10B2BE}|WebView2Demo\\WebView2Demo.csproj|solutionrelative:webview2demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA7422AA-CE3E-4BB8-9D4B-80CDEC10B2BE}|WebView2Demo\\WebView2Demo.csproj|c:\\users\\aiba\\desktop\\webview2demo\\webview2demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DA7422AA-CE3E-4BB8-9D4B-80CDEC10B2BE}|WebView2Demo\\WebView2Demo.csproj|solutionrelative:webview2demo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,41 +22,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aiba\\Desktop\\WebView2Demo\\WebView2Demo\\Program.cs",
-              "RelativeDocumentMoniker": "WebView2Demo\\Program.cs",
-              "ToolTip": "C:\\Users\\aiba\\Desktop\\WebView2Demo\\WebView2Demo\\Program.cs",
-              "RelativeToolTip": "WebView2Demo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T03:50:07.967Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shinseiki\\Desktop\\WebView2Demo\\WebView2Demo\\WebView2Demo\\Program.cs",
+              "RelativeDocumentMoniker": "WebView2Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\shinseiki\\Desktop\\WebView2Demo\\WebView2Demo\\WebView2Demo\\Program.cs",
+              "RelativeToolTip": "WebView2Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T03:50:07.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\aiba\\Desktop\\WebView2Demo\\WebView2Demo\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shinseiki\\Desktop\\WebView2Demo\\WebView2Demo\\WebView2Demo\\Form1.cs",
               "RelativeDocumentMoniker": "WebView2Demo\\Form1.cs",
-              "ToolTip": "C:\\Users\\aiba\\Desktop\\WebView2Demo\\WebView2Demo\\Form1.cs",
+              "ToolTip": "C:\\Users\\shinseiki\\Desktop\\WebView2Demo\\WebView2Demo\\WebView2Demo\\Form1.cs",
               "RelativeToolTip": "WebView2Demo\\Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T03:48:22.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "DocumentMoniker": "C:\\Users\\aiba\\Desktop\\WebView2Demo\\WebView2Demo\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shinseiki\\Desktop\\WebView2Demo\\WebView2Demo\\WebView2Demo\\Form1.cs",
               "RelativeDocumentMoniker": "WebView2Demo\\Form1.cs",
-              "ToolTip": "C:\\Users\\aiba\\Desktop\\WebView2Demo\\WebView2Demo\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
+              "ToolTip": "C:\\Users\\shinseiki\\Desktop\\WebView2Demo\\WebView2Demo\\WebView2Demo\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "RelativeToolTip": "WebView2Demo\\Form1.cs [\u30C7\u30B6\u30A4\u30F3]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-23T03:46:32.466Z",

@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "DUVsxbCzoko=",
+  "dgSpecHash": "mLcXQCfGLeZEGYqUwBRXgVq8vflwxY0kT30XB9ibTMfWGIgDzbJLpKrvSutpSWzzuyIJUQC1UaTv7TSv/IKTIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aiba\\Desktop\\WebView2Demo\\WebView2Demo\\WebView2Demo.csproj",
+  "projectFilePath": "C:\\Users\\shinseiki\\Desktop\\WebView2Demo\\WebView2Demo\\WebView2Demo\\WebView2Demo.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\aiba\\.nuget\\packages\\microsoft.web.webview2\\1.0.3065.39\\microsoft.web.webview2.1.0.3065.39.nupkg.sha512"
+    "C:\\Users\\shinseiki\\.nuget\\packages\\microsoft.web.webview2\\1.0.3065.39\\microsoft.web.webview2.1.0.3065.39.nupkg.sha512"
   ],
   "logs": []
 }
